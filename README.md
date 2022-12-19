@@ -1,1 +1,1 @@
-Ecommerce simple app
+Simple E-commerce with a costume database
